@@ -1,0 +1,10 @@
+2-5 digits price
+1-4 digits stock
+
+
+
+file handling
+constructor
+classes and objects 
+multiple inheritance
+friend class

@@ -1,0 +1,24 @@
+      login                     regis
+    emp       cust          emp       cust
+    view      view
+    append    add to cart 
+    delete    checkout/bill(to test)
+    add       payment
+    
+
+CLASS
+    basket 
+    product
+    user
+will inherit to menu 
+
+    menu:-
+    emp menu
+    cust menu
+    actual function:
+        login/regi(tells wether cust or emp)
+        // call emp menu or cust menu accordingly
+        each menu will have the normal menu based property
+
+
+
